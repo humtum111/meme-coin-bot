@@ -1,0 +1,8 @@
+[build]
+  builder = "NIXPACKS"
+
+[deploy]
+  startCommand = "python3 main.py"
+
+[variables]
+  TELEGRAM_BOT_TOKEN = "7920309268:AAELcWXpPST_Anjr9gH4aorT1_fklKEJnl8"
